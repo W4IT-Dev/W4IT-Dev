@@ -1,9 +1,7 @@
 # W4IT Dev
 Hello everyone, I am W4IT Dev (i know goofy ah name)
 
-I'd consider myself a app developer since I'm creating some apps?
-
-My dream is to be a Front-End Dev and maybe even a Back-End Dev one day.
+I guess I'm an App Developer because I create apps.
 
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
