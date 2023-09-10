@@ -9,7 +9,7 @@ I'm a young self-thought hobby front-end developer.
 
 I started coding in JavaScript around 2020 when I created cheats for a [game](https://www.moomoo.io/).
 
-Then I heard about (KaiOS)[https://www.kaiostech.com/] and started developing apps and games for it.
+Then I heard about [KaiOS](https://www.kaiostech.com/) and started developing apps and games for it.
 
 With that I gathered expierience and skills.
 
