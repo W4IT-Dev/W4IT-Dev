@@ -51,4 +51,4 @@ Feel free to reach out to me through any of the following channels:
 * [My Website](https://w4it-dev.github.io/website)
 * [Twitter / x](https://twitter.com/W4ITdev)
 * [Reddit](https://www.reddit.com/user/W4IT-DEV)
-* [All apps by me](https://kaios.app/developers/w4itdev) (on [kaios.app](kaios.app)
+* [All apps by me](https://kaios.app/developers/w4itdev) (on [kaios.app](kaios.app))
