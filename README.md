@@ -1,4 +1,4 @@
-# W4IT Dev <img href="https://w4it-dev.github.io/website/" target="_blank" style="position: fixed; right: 50px" src="https://github.com/W4IT-Dev/W4IT-Dev/assets/110252354/c1c8fd41-5deb-40bd-ba7a-7548ec5ee297">
+# W4IT Dev <img href="https://w4it-dev.github.io/website/" target="_blank" style="z-index: 10000000;position: fixed; top: 90px; right: 50px" src="https://github.com/W4IT-Dev/W4IT-Dev/assets/110252354/c1c8fd41-5deb-40bd-ba7a-7548ec5ee297">
 
 Welcome to my GitHub!
 
