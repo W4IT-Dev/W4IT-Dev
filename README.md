@@ -48,6 +48,7 @@ Feel free to reach out to me through any of the following channels:
 
 ## Links
 * [GitHub](https://www.github.com/W4IT-Dev)
+* [Codeen](https://codepen.io/W4IT)
 * [My Website](https://w4it-dev.github.io/website)
 * [Twitter / x](https://twitter.com/W4ITdev)
 * [Reddit](https://www.reddit.com/user/W4IT-DEV)
