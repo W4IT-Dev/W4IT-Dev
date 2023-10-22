@@ -7,7 +7,7 @@ Welcome to my GitHub!
 ## Who am I?
 I'm a young self-thought hobby front-end developer.
 
-I started coding in JavaScript around 2020 when I created cheats for a [game](https://www.moomoo.io/).
+I started coding in JavaScript around 2020 when I created cheats for a [game](https://moomooio.fandom.com/wiki/MooMoo.io_Wiki).
 
 Then I heard about [KaiOS](https://www.kaiostech.com/) and started developing apps and games for it.
 
@@ -34,9 +34,7 @@ That's the only thing I do at the moment.
 
 ### Big projects
 * [Rubik's Cube Timer](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
-* [pancake mod](https://greasyfork.org/en/scripts/424066-pancake-mod-working-2023) (for moomoo.io) 
-* [amog us mod](https://www.youtube.com/watch?v=JYngD6YPfRg) (for moomoo.io)
-* [Mouse mod](https://www.youtube.com/watch?v=e1zIofGrYC0) (for moomoo.io) This mod got stolen & leaked
+* [Space Shuttle](https://github.com/W4IT-Dev/space-shuttle) My first KaiOS app
 
 
 ## Contact
