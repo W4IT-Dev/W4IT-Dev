@@ -30,6 +30,7 @@ That's the only thing I do at the moment.
 * [Battery Manager](https://www.github.com/W4IT-Dev/battery-manager)
 
 ### Currently working on:
+* [Bored? - Activity Suggestor](https://github.com/W4IT-Dev/Bored)
 * [Rubik's Cube Timer](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
 ### Big projects
