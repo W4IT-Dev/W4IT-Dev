@@ -27,9 +27,9 @@ That's the only thing I do at the moment.
 ## What have I coded?
 ### Officiall apps:
 * [Falling Numbers](https://www.github.com/W4IT-Dev/falling-numbers)
+* [Battery Manager](https://www.github.com/W4IT-Dev/battery-manager)
 
 ### Currently working on:
-* [Battery Manager](https://www.github.com/W4IT-Dev/battery-manager)
 * [Rubik's Cube Timer](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
 ### Big projects
