@@ -5,7 +5,7 @@ Welcome to my GitHub!
 <br>
 
 ## Who am I?
-I'm a young self-thought hobby front-end developer.
+I'm a young self-thought hobby app developer.
 
 I started coding in JavaScript around 2020 when I created cheats for a [game](https://moomooio.fandom.com/wiki/MooMoo.io_Wiki).
 
@@ -30,7 +30,7 @@ That's the only thing I do at the moment.
 * [Battery Manager](https://www.github.com/W4IT-Dev/battery-manager)
 
 ### Currently working on:
-* [Bored? - Activity Suggestor](https://github.com/W4IT-Dev/Bored)
+* [Bored? - Activity Suggestions](https://github.com/W4IT-Dev/Bored)
 * [Rubik's Cube Timer](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
 ### Big projects
