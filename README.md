@@ -1,4 +1,4 @@
-# W4IT Dev <img href="https://w4it-dev.github.io/website/" target="_blank" style="z-index: 10000000;position: absolute; right: 50px; pointer-events: none;" src="https://github.com/W4IT-Dev/W4IT-Dev/assets/110252354/c1c8fd41-5deb-40bd-ba7a-7548ec5ee297">
+# W4IT Dev 
 
 Welcome to my GitHub!
 
@@ -28,9 +28,9 @@ That's the only thing I do at the moment.
 ### Officiall apps:
 * [Falling Numbers](https://www.github.com/W4IT-Dev/falling-numbers)
 * [Battery Manager](https://www.github.com/W4IT-Dev/battery-manager)
+* [Bored? - Activity Suggestions](https://github.com/W4IT-Dev/Bored)
 
 ### Currently working on:
-* [Bored? - Activity Suggestions](https://github.com/W4IT-Dev/Bored)
 * [Rubik's Cube Timer](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
 ### Big projects
