@@ -44,13 +44,11 @@ That's the only thing I do at the moment.
 ## Contact
 Feel free to reach out to me through any of the following channels:
 * [Email](mailto:w4it.dev.business@gmail.com)
-* [Twitter](https://twitter.com/W4ITdev)
-* [Reddit](https://www.reddit.com/user/W4IT-DEV)
+* [Discord](https://www.discord.com/users/1061357254126866495/)
 
 
 ## Links
 * [GitHub](https://www.github.com/W4IT-Dev)
 * [Codepen](https://codepen.io/W4IT)
-* [My Website](https://w4it-dev.github.io/website)
 * [Twitter](https://twitter.com/W4ITdev)
 * [Reddit](https://www.reddit.com/user/W4IT-DEV)
