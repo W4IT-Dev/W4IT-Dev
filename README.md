@@ -1,4 +1,5 @@
-# W4IT Dev 
+# W4IT Dev
+
 
 Welcome to my GitHub!
 
@@ -18,7 +19,12 @@ And now I'm here able to code fully functional apps & games.
 <br>
 
 ## What am I working with?
-I basically only create apps for KaiOS using HTML, CSS and mostly VanillaJS.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/css3-1572B6?logo=html5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![KaiOS](https://img.shields.io/badge/KaiOS-6F02B5?logo=kaios&style=for-the-badge)
+
+I basically only create apps for KaiOS using HTML, CSS and JavaScript.
 
 That's the only thing I do at the moment.
 
@@ -26,19 +32,19 @@ That's the only thing I do at the moment.
 
 ## What have I coded?
 ### Officiall apps:
-* [Falling Numbers](https://www.github.com/W4IT-Dev/falling-numbers)
-* [Battery Manager](https://www.github.com/W4IT-Dev/battery-manager)
-* [Bored? - Activity Suggestions](https://github.com/W4IT-Dev/Bored)
+[<img style="height: 100px;" src="https://github.com/W4IT-Dev/Falling-Numbers/blob/master/img/icons/icon.png">](https://www.github.com/W4IT-Dev/falling-numbers)
+[<img style="height: 100px;" src="https://github.com/W4IT-Dev/Battery-Manager/blob/main/assets/image/icon.png">](https://www.github.com/W4IT-Dev/battery-manager)
+[<img style="height: 100px;" src="https://github.com/W4IT-Dev/bored/blob/main/icon_112.png">](https://github.com/W4IT-Dev/Bored)
 
 ### Currently working on:
-* [Quotle](https://github.com/W4IT-Dev/quotle)
-* Get Your Lyrics
-* [Stay hydrated](https://github.com/W4IT-Dev/Stay-hydrated/)
-* [Rubik's Cube Timer](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Quotle/blob/main/icon.png">](https://github.com/W4IT-Dev/Quotle)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/icon.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/W4IT-Dev/assets/110252354/44092a6c-1a27-43f7-9004-8b684c4b9ec4">](https://github.com/W4IT-Dev/Stay-hydrated/)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
 ### Big projects
-* [Rubik's Cube Timer](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
-* [Space Shuttle](https://github.com/W4IT-Dev/space-shuttle) My first KaiOS app
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Space-Shuttle/blob/main/img/icons/icon.png">](https://github.com/W4IT-Dev/space-shuttle)
 
 
 ## Contact
@@ -48,7 +54,7 @@ Feel free to reach out to me through any of the following channels:
 
 
 ## Links
-* [GitHub](https://www.github.com/W4IT-Dev)
-* [Codepen](https://codepen.io/W4IT)
-* [Twitter](https://twitter.com/W4ITdev)
-* [Reddit](https://www.reddit.com/user/W4IT-DEV)
+![GitHub](https://img.shields.io/badge/GitHub-@W4IT--Dev-181717?logo=github&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
+![CodePen](https://img.shields.io/badge/CodePen-@W4IT-000000?logo=codepen&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
+![Twitter](https://img.shields.io/badge/Twitter-@W4IT--Dev-1D9BF0?logo=twitter&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
+![Reddit](https://img.shields.io/badge/Reddit-@W4IT--Dev-FF4500?logo=reddit&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
