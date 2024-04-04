@@ -19,10 +19,10 @@ And now I'm here able to code fully functional apps & games.
 <br>
 
 ## What am I working with?
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-1572B6?logo=html5&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-![KaiOS](https://img.shields.io/badge/KaiOS-6F02B5?logo=kaios&style=for-the-badge)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://www.google.com/search?q=HTML5)
+[![CSS3](https://img.shields.io/badge/css3-1572B6?logo=html5&logoColor=white&style=for-the-badge)](https://www.google.com/search?q=CSS3)
+[![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)](https://www.google.com/search?q=JavaScript)
+[![KaiOS](https://img.shields.io/badge/KaiOS-6F02B5?logo=kaios&style=for-the-badge)](https://www.kaiostech.com/)
 
 I basically only create apps for KaiOS using HTML, CSS and JavaScript.
 
@@ -54,7 +54,7 @@ Feel free to reach out to me through any of the following channels:
 
 
 ## Links
-![GitHub](https://img.shields.io/badge/GitHub-@W4IT--Dev-181717?logo=github&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
-![CodePen](https://img.shields.io/badge/CodePen-@W4IT-000000?logo=codepen&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
-![Twitter](https://img.shields.io/badge/Twitter-@W4IT--Dev-1D9BF0?logo=twitter&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
-![Reddit](https://img.shields.io/badge/Reddit-@W4IT--Dev-FF4500?logo=reddit&style=for-the-badge)‎ ‎ ‎ ‎ ‎ 
+[![GitHub](https://img.shields.io/badge/GitHub-@W4IT--Dev-181717?logo=github&style=for-the-badge)‎](https://www.github.com/W4IT-Dev/) ‎ ‎ ‎ ‎ 
+[![CodePen](https://img.shields.io/badge/CodePen-@W4IT-000000?logo=codepen&style=for-the-badge)‎](https://www.codepen.io/W4IT/) ‎ ‎ ‎ ‎ 
+[![Twitter](https://img.shields.io/badge/Twitter-@W4IT--Dev-1D9BF0?logo=twitter&style=for-the-badge)](https://twitter.com/W4ITdev)‎ ‎ ‎ ‎ ‎ 
+[![Reddit](https://img.shields.io/badge/Reddit-@W4IT--Dev-FF4500?logo=reddit&style=for-the-badge)](‎https://www.reddit.com/user/W4IT-DEV/) ‎ ‎ ‎ ‎ 
