@@ -49,12 +49,13 @@ That's the only thing I do at the moment.
 
 ## Contact
 Feel free to reach out to me through any of the following channels:
-* [Email](mailto:w4it.dev.business@gmail.com)
-* [Discord](https://www.discord.com/users/1061357254126866495/)
+
+[![Email](https://img.shields.io/badge/Email-w4it.dev.business@gmail.com-EA4335?logo=gmail&style=for-the-badge)](mailto:w4it.dev.business@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-@w4it.yt-5865F2?logo=discord&style=for-the-badge)](https://www.discord.com/users/1061357254126866495/)
 
 
 ## Links
-[![GitHub](https://img.shields.io/badge/GitHub-@W4IT--Dev-181717?logo=github&style=for-the-badge)‎](https://www.github.com/W4IT-Dev/) ‎ ‎ ‎ ‎ 
-[![CodePen](https://img.shields.io/badge/CodePen-@W4IT-000000?logo=codepen&style=for-the-badge)‎](https://www.codepen.io/W4IT/) ‎ ‎ ‎ ‎ 
-[![Twitter](https://img.shields.io/badge/Twitter-@W4IT--Dev-1D9BF0?logo=twitter&style=for-the-badge)](https://twitter.com/W4ITdev)‎ ‎ ‎ ‎ ‎ 
-[![Reddit](https://img.shields.io/badge/Reddit-@W4IT--Dev-FF4500?logo=reddit&style=for-the-badge)](‎https://www.reddit.com/user/W4IT-DEV/) ‎ ‎ ‎ ‎ 
+[![GitHub](https://img.shields.io/badge/GitHub-@W4IT--Dev-181717?logo=github&style=for-the-badge)‎](https://www.github.com/W4IT-Dev/)
+[![CodePen](https://img.shields.io/badge/CodePen-@W4IT-000000?logo=codepen&style=for-the-badge)‎](https://www.codepen.io/W4IT/)
+[![Twitter](https://img.shields.io/badge/Twitter-@W4IT%20Dev-1D9BF0?logo=twitter&style=for-the-badge)](https://twitter.com/W4ITdev)‎
+[![Reddit](https://img.shields.io/badge/Reddit-@W4IT--Dev-FF4500?logo=reddit&style=for-the-badge)](‎https://www.reddit.com/user/W4IT-DEV/)
