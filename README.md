@@ -33,12 +33,12 @@ That's the only thing I do at the moment.
 ## What have I coded?
 ### Officiall apps:
 [<img style="height: 100px;" src="https://github.com/W4IT-Dev/Falling-Numbers/blob/master/img/icons/icon.png">](https://www.github.com/W4IT-Dev/falling-numbers)
-[<img style="height: 100px;" src="https://github.com/W4IT-Dev/Battery-Manager/blob/main/assets/image/icon.png">](https://www.github.com/W4IT-Dev/battery-manager)
+[<img style="height: 100px;" src="https://github.com/W4IT-Dev/Battery-Manager/blob/main/assets/image/icons/icon_112.png">](https://www.github.com/W4IT-Dev/battery-manager)
 [<img style="height: 100px;" src="https://github.com/W4IT-Dev/bored/blob/main/icon_112.png">](https://github.com/W4IT-Dev/Bored)
 
 ### Currently working on:
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Quotle/blob/main/icon.png">](https://github.com/W4IT-Dev/Quotle)
-[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/icon.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/icon_112.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/W4IT-Dev/assets/110252354/44092a6c-1a27-43f7-9004-8b684c4b9ec4">](https://github.com/W4IT-Dev/Stay-hydrated/)
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
