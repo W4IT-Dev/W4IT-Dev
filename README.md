@@ -38,7 +38,7 @@ That's the only thing I do at the moment.
 
 ### Currently working on:
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Quotle/blob/main/icon.png">](https://github.com/W4IT-Dev/Quotle)
-[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/icon_112.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/assets/icons/icon_112.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
 ### Big projects
