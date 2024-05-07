@@ -38,8 +38,8 @@ That's the only thing I do at the moment.
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/assets/icons/icon_112.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
 
 ### Currently working on:
-[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Quotle/blob/main/icon.png">](https://github.com/W4IT-Dev/Quotle)
-[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
+<img src="https://github.com/W4IT-Dev/W4IT-Dev/assets/110252354/5c1e65e2-2d32-417d-bf79-a9b9c762ec8e" width="112px">
+
 
 ### Big projects
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
