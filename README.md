@@ -35,10 +35,10 @@ That's the only thing I do at the moment.
 [<img style="height: 100px;" src="https://github.com/W4IT-Dev/Falling-Numbers/blob/master/img/icons/icon.png">](https://www.github.com/W4IT-Dev/falling-numbers)
 [<img style="height: 100px;" src="https://github.com/W4IT-Dev/Battery-Manager/blob/main/assets/image/icons/icon_112.png">](https://www.github.com/W4IT-Dev/battery-manager)
 [<img style="height: 100px;" src="https://github.com/W4IT-Dev/bored/blob/main/icon_112.png">](https://github.com/W4IT-Dev/Bored)
+[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/assets/icons/icon_112.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
 
 ### Currently working on:
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Quotle/blob/main/icon.png">](https://github.com/W4IT-Dev/Quotle)
-[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/assets/icons/icon_112.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
 
 ### Big projects
