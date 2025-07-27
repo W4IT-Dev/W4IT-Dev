@@ -38,12 +38,11 @@ That's the only thing I do at the moment.
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Get-Your-Lyrics/blob/main/assets/icons/icon_112.png">](https://github.com/W4IT-Dev/Get-Your-Lyrics)
 
 ### Currently working on:
-<img src="https://github.com/W4IT-Dev/W4IT-Dev/assets/110252354/5c1e65e2-2d32-417d-bf79-a9b9c762ec8e" width="112px">
+*nothing*
 
 
 ### Big projects
 [<img style="height: 90px;" src="https://github.com/W4IT-Dev/Rubiks-Cube-Timer/blob/main/img/icon.png">](https://github.com/W4IT-Dev/Rubiks-Cube-Timer)
-[<img style="height: 90px;" src="https://github.com/W4IT-Dev/Space-Shuttle/blob/main/img/icons/icon.png">](https://github.com/W4IT-Dev/space-shuttle)
 
 
 ## Contact
@@ -56,5 +55,3 @@ Feel free to reach out to me through any of the following channels:
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-@W4IT--Dev-181717?logo=github&style=for-the-badge)‎](https://www.github.com/W4IT-Dev/)
 [![CodePen](https://img.shields.io/badge/CodePen-@W4IT-000000?logo=codepen&style=for-the-badge)‎](https://www.codepen.io/W4IT/)
-[![Twitter](https://img.shields.io/badge/Twitter-@W4IT%20Dev-1D9BF0?logo=twitter&style=for-the-badge)](https://twitter.com/W4ITdev)‎
-[![Reddit](https://img.shields.io/badge/Reddit-@W4IT--Dev-FF4500?logo=reddit&style=for-the-badge)](‎https://www.reddit.com/user/W4IT-DEV/)
